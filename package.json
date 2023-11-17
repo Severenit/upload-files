@@ -11,11 +11,11 @@
   },
   "devDependencies": {
     "typescript": "^5.0.2",
-    "vite": "^4.4.5"
+    "vite": "^4.4.5",
+    "nodemon": "^3.0.1"
   },
   "dependencies": {
     "@hapi/hapi": "^21.3.2",
-    "@hapi/inert": "^7.1.0",
-    "nodemon": "^3.0.1"
+    "@hapi/inert": "^7.1.0"
   }
 }
